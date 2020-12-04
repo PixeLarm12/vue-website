@@ -1,0 +1,469 @@
+{
+  "transacao": [
+    {
+      "comprador_id": "rafa.ballalai@gmail.com",
+      "vendedor_id": "lucas@gmail.com",
+      "produto": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "lucas@gmail.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um celular pica",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "17063060",
+        "rua": "Rua Marçal de Arruda Campos",
+        "numero": "7-95",
+        "bairro": "Vila Lemos",
+        "cidade": "Bauru",
+        "estado": "SP"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "oriori@gmail.com",
+      "vendedor_id": "lucas@gmail.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "lucas@gmail.com",
+        "preco": "899",
+        "vendido": "false",
+        "descricao": "Esse é um tablet daora das ideia",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "17060160",
+        "rua": "Rua Alto Purús",
+        "numero": "10-85",
+        "bairro": "Vila Camargo",
+        "cidade": "Bauru",
+        "estado": "SP"
+      },
+      "id": 2
+    },
+    {
+      "comprador_id": "rafa.ballalai@gmail.com",
+      "vendedor_id": "lucas@gmail.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "lucas@gmail.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um notebook foda",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "17060450",
+        "rua": "Rua Padre Nóbrega",
+        "numero": "9-18",
+        "bairro": "Vila São João da Boa Vista",
+        "cidade": "Bauru",
+        "estado": "SP"
+      },
+      "id": 3
+    }
+  ],
+  "usuario": [
+    {
+      "id": "lucas@gmail.com",
+      "nome": "Lucas Ramos Domingues",
+      "email": "lucas@gmail.com",
+      "senha": "123",
+      "cep": "17063060",
+      "rua": "Rua Marçal de Arruda Campos",
+      "numero": "15",
+      "bairro": "Vila Lemos",
+      "cidade": "Bauru",
+      "estado": "SP"
+    },
+    {
+      "id": "rafa.ballalai@gmail.com",
+      "nome": "Rafaela Ballalai Swenson",
+      "email": "rafa.ballalai@gmail.com",
+      "senha": "123",
+      "cep": "17063060",
+      "rua": "Rua Marçal de Arruda Campos",
+      "numero": "7-95",
+      "bairro": "Vila Lemos",
+      "cidade": "Bauru",
+      "estado": "SP"
+    },
+    {
+      "id": "celinho@gmail.com",
+      "nome": "Celio Manuel",
+      "email": "celinho@gmail.com",
+      "senha": "123",
+      "cep": "17063060",
+      "rua": "Rua Marçal de Arruda Campos",
+      "numero": "7-95",
+      "bairro": "Vila Lemos",
+      "cidade": "Bauru",
+      "estado": "SP"
+    },
+    {
+      "id": "oriori@gmail.com",
+      "nome": "Daniel Orivaldo da Silva",
+      "email": "oriori@gmail.com",
+      "senha": "123123",
+      "cep": "17060160",
+      "rua": "Rua Alto Purús",
+      "numero": "10-85",
+      "bairro": "Vila Camargo",
+      "cidade": "Bauru",
+      "estado": "SP"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um notebook foda",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "899",
+      "vendido": "false",
+      "descricao": "Esse é um tablet daora das ideia",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "lucas@gmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um celular pica",
+      "fotos": null
+    },
+    {
+      "nome": "Teste produto 1",
+      "preco": "1999",
+      "descricao": "Jorginho me empresta a doze",
+      "fotos": null,
+      "usuario_id": "lucas@gmail.com",
+      "id": "zzlG08F"
+    },
+    {
+      "nome": "Teste produto 1",
+      "preco": "1999",
+      "descricao": "Jorginho me empresta a doze",
+      "fotos": null,
+      "usuario_id": "lucas@gmail.com",
+      "id": "tkVc8sU"
+    },
+    {
+      "nome": "Teste produto 1",
+      "preco": "1999",
+      "descricao": "Jorginho me empresta a doze",
+      "fotos": null,
+      "usuario_id": "lucas@gmail.com",
+      "id": "2f_mI7y"
+    },
+    {
+      "nome": "Iphone pica max 2000",
+      "preco": "10000000",
+      "descricao": "Essa Iphone assalta até banco",
+      "fotos": null,
+      "usuario_id": "rafa.ballalai@gmail.com",
+      "id": "13dLuWN"
+    }
+  ]
+}
